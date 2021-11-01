@@ -1,0 +1,21 @@
+fieldset {
+  max-width: 700px;
+  margin: 1rem auto;
+  display: flex;
+  font-weight: bold;
+}
+
+span {
+  font-weight: normal;
+}
+
+fieldset div {
+  flex-grow: 1;
+}
+
+h2, .small {
+  padding-top: 1rem;
+  text-align: center;
+  margin: 0 auto;
+}
+
